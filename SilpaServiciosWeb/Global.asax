@@ -1,5 +1,5 @@
 <%@ Application Language="C#" %>
-
+ghfghfghfghfghfghfghfgh
 <script runat="server">
     //SILPA.Servicios.Comunicacion.ComunicacionVisitaFachada _cvf = new SILPA.Servicios.Comunicacion.ComunicacionVisitaFachada();
     //SILPA.Servicios.Generico.VerificarEstado.VerificarEstado _ver = new SILPA.Servicios.Generico.VerificarEstado.VerificarEstado();
@@ -8,7 +8,7 @@
     
     void Application_Start(object sender, EventArgs e) 
     {
-        // Código que se ejecuta al iniciarse la aplicación
+        // CÃ³digo que se ejecuta al iniciarse la aplicaciÃ³n
         //System.Threading.Thread proceso1 = new System.Threading.Thread(_cvf.EnviarProceso);
         //System.Threading.Thread procesoVerificar = new System.Threading.Thread(_ver.EnviarProceso);
         //System.Threading.Thread procesoComunicacion = new System.Threading.Thread(_com.EnviarProceso);
